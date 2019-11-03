@@ -5,4 +5,4 @@ This was my CSE445 course's project. Worked on machine learning models to accura
 We obtained accuracy as high as 82% on the random forest model.
 <br>
 
-[Click here to read more] (https://github.com/phanto007/StockTradingAdvisor/blob/master/CSE445%20IEEE%20Report.pdf)
+[Click here to read more] https://github.com/phanto007/StockTradingAdvisor/blob/master/CSE445%20IEEE%20Report.pdf
